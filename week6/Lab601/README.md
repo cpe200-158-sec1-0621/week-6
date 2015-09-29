@@ -9,7 +9,12 @@ from the provided C# source code.
  ![570610621] (http://www.mx7.com/i/7b0/AzWaPp.jpg)
 
 2. Detail explaination about the identified pattern and all the parcipants
-
+Anewer = Abstract  Factory Method 
+			AbstractFactory = ContinentFactory
+			ConcreteFactory = AmericaFactory , AfricaFactory
+			Client = AnimalWorld
+			AbstractProduct = Herbivore , Carnivore
+			Product = Wildebeast , Lion , Bison , Woft
 
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
   - Show the class diagram of the program after including the new requirment.
